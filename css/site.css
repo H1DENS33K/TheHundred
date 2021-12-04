@@ -56,6 +56,10 @@ footer .social>a:hover{
   color: orangered;
 }
 
+.logoFont {
+  font-family: 'Roboto', sans-serif;
+}
+
 .checklist > li i{
   color: var(--secondary-color)
 }
